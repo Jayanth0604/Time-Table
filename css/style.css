@@ -1,0 +1,159 @@
+body{margin:0 auto;padding:0 auto;}
+
+
+.header {
+  float: left;
+  width: 100%;
+  background-color: #001F3D;
+  color: white;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+.header1 {
+  float: left;
+  width: 100%;
+}
+.header1 li {
+  display: inline;
+}
+.h1 {
+  float: left;
+  width: 20%;
+}
+.h2 {
+  float: right;
+  width: 80%;
+  margin-top: 2em;
+  word-spacing: 2em;
+}
+.img {
+  position: relative;
+  left: 1em;
+  top: 1.8em;
+}
+.bt {
+  margin-left: 10em;
+  padding: 1em;
+  background-color: #FFAE42;
+  border: solid #FFAE42 1px;
+  color: white;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+}
+/**headerends**/
+.bg {
+  float: left;
+  width: 100%;
+
+}
+.title h1 {
+  font-weight: 400;
+  font-size: 140px;
+  text-align: center;
+  color: ghostwhite;
+  font-family: popins;
+}
+.bg {
+  background-image: url("../image/scl4.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+/**bgends**/
+
+.tt {
+  float: left;
+  width: 100%;
+  text-align: center;
+  text-transform: capitalize;
+  color: white;
+  background-color: #001F3D;
+  margin-top: -1em;
+  margin-bottom: 3em;
+}
+.tt h3 {
+  text-align: center;
+  font-size: 25px;
+  font-family: Roboto;
+  font-weight: 450;
+  text-decoration: underline;
+}
+.tt p {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 21px;
+  font-family: Roboto;
+  font-weight: 300;
+}
+
+/**ttends**/
+.bodysection {
+  float: left;
+  width: 100%;
+  background-image: url('../image/bg04.png'),url('../image/bg03.png');
+  background-position: left bottom,right bottom;
+  background-size: 122px,100px;
+  background-repeat: no-repeat,no-repeat;
+}
+
+table, tr, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 0.7em;
+  text-align: center;
+  text-transform: capitalize;
+  font-family: popins;
+  font-size: 16px;
+  font-weight: 400;
+}
+.table123 {
+  margin-left: 14em;
+
+}
+
+.marquee {
+  background-color: #001F3D;
+  padding-bottom: 1em;
+  color: white;
+  font-size: 23px;
+  font-family: popins;
+  font-weight: 400;
+  margin-top: 1em;
+  padding-top: 0.5em;
+}
+.lunch {
+  rotate: -90deg;
+  font-size: 100%;
+   font-family: roboto;
+  font-size: 16px;
+  font-weight: 400;
+}
+.break {
+  rotate: -90deg;
+   font-family: roboto;
+  font-size: 16px;
+  font-weight: 400;
+}
+.beak {
+  rotate: -90deg;
+  font-family: roboto;
+  font-size: 16px;
+  font-weight: 400;
+}
+.day {
+  text-transform: uppercase;
+  font-family: roboto;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: gainsboro;
+}
+
+.days {
+  text-transform: uppercase;
+  font-family: roboto;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: gainsboro;
+}
